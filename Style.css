@@ -1,0 +1,20 @@
+.titulo{
+    color:lightseagreen;
+    background-color: darkgrey;
+ }      
+
+.subtitulo{
+    color:rgb(2, 10, 35);
+}
+/* Hierarquia da herança: (mais forte)inline>#id>.Class>tag(mais fraco) */
+/* Unidades de Medidados do CSS
+Layout fluido (vai se adequar com o tamnaho da tela)
+%: porcentagem
+vh: viewport height
+vw: viewport width
+em: fotn-size do elemento vinculado
+rem: font-size do elemento raiz
+-----
+Layout Fixo (Independente do tamanho da tela, vai ocupar o mesmo espaço, por exemplo uma tela de celular com uma tela de computador)
+px: pixel
+pt: points */
